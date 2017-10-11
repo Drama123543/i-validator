@@ -1,0 +1,23 @@
+{
+  "name": "i-validator",
+  "version": "1.0.0",
+  "description": "validate so easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "validator",
+    "validate"
+  ],
+  "author": "ishanyang",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishanyang/i-validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ishanyang/i-validator/issues"
+  },
+  "homepage": "https://github.com/ishanyang/i-validator#readme"
+}
