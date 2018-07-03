@@ -1,3 +1,4 @@
+# [joi](https://github.com/hapijs/joi) is perfect
 # i-validator  
 
 *validate so easy(3.28kb)*
