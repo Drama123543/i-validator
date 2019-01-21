@@ -1,4 +1,4 @@
-# [joi](https://github.com/hapijs/joi) is perfect
+# [joi](https://github.com/hapijs/joi) is perfect, please use it for your project
 # i-validator  
 
 *validate so easy(3.28kb)*
